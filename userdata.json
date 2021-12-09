@@ -113,18 +113,18 @@
     },
     {
         "_id": "61b05e53c9deb83252fc7f75",
-        "id": "Baker",
-        "pw": "dd20c5f8-b5ce-444c-9bcd-9a6c5c481ad0",
+        "id": "youngeun",
+        "pw": "1234",
         "index": 7,
         "picture": "http://placehold.it/32x32",
-        "age": 38,
-        "eyeColor": "blue",
+        "age": 24,
+        "eyeColor": "black",
         "name": "Richardson Ferguson",
-        "gender": "male",
+        "gender": "female",
         "company": "TERASCAPE",
         "email": "richardsonferguson@terascape.com",
         "phone": "+1 (990) 516-2175",
         "address": "123 Hale Avenue, Eggertsville, North Carolina, 115",
-        "grade": "골드"
+        "grade": ""
     }
 ]
